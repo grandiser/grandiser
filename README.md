@@ -17,7 +17,7 @@ I'm a software engineer with a background in **electrical engineering** and a de
 ### 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,go,docker,azure,git,linux,bash" />
+  <img src="https://skillicons.dev/icons?i=python,git,docker,azure,linux,bash" />
 </p>
 
 ---

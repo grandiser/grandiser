@@ -7,32 +7,10 @@
 
 I'm a software engineer with a background in **electrical engineering** and a deep interest in **cloud-native architectures**, **machine learning**, and **real-time systems**. From deploying satellite test-data pipelines to building cardiology training apps, I love solving complex problems with clean, scalable code.
 
-- ⚙️ Languages: Python, Bash, Go
-- 🌐 Cloud: AWS, Azure | Containers: Docker, Kubernetes | Infra: Terraform
-- 🧠 AI/ML: PyTorch, Dask, Scikit-learn, CUDA
-- 🧰 Dev Tools: Git, Jenkins, React, Next.js, Celery
-
----
-
-### 🔨 Projects
-
-🧠 **3D Medical Imaging & ML Toolkit**  
-PyTorch, Napari, Dask, CUDA  
-→ Enabled 5× faster 3D medical annotation workflows.  
-→ Built semi-supervised vessel segmentation achieving 99% accuracy.
-
-💬 **Prism – Social Matching App**  
-React, Flask, Firebase  
-→ Built full-stack social platform with real-time recommendations and GDPR-compliant auth.  
-→ Increased match rates by 60% with ML-based suggestions.
-
----
-
-### 🧠 Currently Learning
-
-- LLM inference + fine-tuning
-- Rust + WebAssembly
-- Scalable observability (OpenTelemetry, Grafana, etc.)
+- ⚙️ Languages: Python, Bash
+- 🌐 Cloud: Azure | Containers: Docker
+- 🧠 AI/ML: PyTorch, Dask, Scikit-learn
+- 🧰 Dev Tools: Git, Jenkins
 
 ---
 
@@ -41,6 +19,23 @@ React, Flask, Firebase
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,go,docker,azure,git,linux,bash" />
 </p>
+
+---
+
+### 💼 My Experience
+
+At **MDA Space**, I’ve worked on everything from container orchestration to satellite test-data pipelines. I currently design production-grade systems for space missions — including a full pipeline that processes Touchstone satellite data and outputs analytics reports in HTML, PDF, and Parquet. I also help with automation around Azure deployments and contribute to internal tooling and documentation that supports new hires.
+
+At **Amazon**, I worked in their Data Center Engineering division where I developed a real-time dashboard to visualize thousands of metrics. I also automated workforce scheduling and monitoring tasks dramatically reducing manual overhead.
+
+My earlier experience at **Exo** focused on building scalable data pipelines using Python and Pandas to clean and transform large engineering datasets.
+
+---
+
+### 🧠 Currently Learning
+
+- Go
+- Web development
 
 ---
 

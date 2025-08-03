@@ -35,7 +35,6 @@ My earlier experience at **Exo** focused on building scalable data pipelines usi
 ### 🧠 Currently Learning
 
 - Go
-- Web development
 
 ---
 

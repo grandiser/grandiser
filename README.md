@@ -2,8 +2,8 @@
 
 I like building stuff :)
 
+- 👨‍💼 Backend @ **GovernGPT (YC W24)**
 - 🎓 EE Graduate at **McGill** 
-- 👨‍💼 SDE @ **MDA Space**
 
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-stats-card"><img height="190" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=grandiser&show_icons=true&custom_title=GitHub+Statistics&title_color=cba6f7&theme=catppuccin_mocha&border_color=45475a"/></a>

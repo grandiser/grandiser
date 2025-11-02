@@ -2,7 +2,7 @@
 
 I like building stuff :)
 
-- 👨‍💼 Backend @ **GovernGPT (YC W24)**
+- 👨‍💼 Founder @ **Stealth**
 - 🎓 EE Graduate at **McGill** 
 
 <div>
